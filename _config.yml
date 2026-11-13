@@ -1,0 +1,9 @@
+title: Linkzy Test Site C
+description: Sample posts about small business websites, published only to test Linkzy.
+url: https://demo2.linkzy.ai
+baseurl: ""
+permalink: /blog/:title/
+plugins:
+  - jekyll-sitemap
+exclude:
+  - README.md
